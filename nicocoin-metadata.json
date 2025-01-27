@@ -1,7 +1,7 @@
 {
   "name": "NicoCoin",
   "symbol": "NICO",
-  "uri": "https://purple-legal-fowl-585.mypinata.cloud/ipfs/bafkreiet4avvdgm4koishfbbysze4j2erhxkikuznanmqadfzq462ljyha",
+  "uri": "https://github.com/stevenmcsorley/nicocoin/blob/main/nicocoin-metadata.json",
   "seller_fee_basis_points": 0,
   "creators": [
     {
