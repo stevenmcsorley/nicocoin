@@ -1,0 +1,13 @@
+{
+  "name": "NicoCoin",
+  "symbol": "NICO",
+  "uri": "https://purple-legal-fowl-585.mypinata.cloud/ipfs/bafkreiet4avvdgm4koishfbbysze4j2erhxkikuznanmqadfzq462ljyha",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "AagvdD9Yj1kXTRWrvtnYb7TosZ6u96KNqYZp71G5VBDC",
+      "verified": true,
+      "share": 100
+    }
+  ]
+}
