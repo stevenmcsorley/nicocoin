@@ -1,7 +1,7 @@
 {
   "name": "NicoCoin",
   "symbol": "NICO",
-  "uri": "https://github.com/stevenmcsorley/nicocoin/blob/main/nicocoin-metadata.json",
+  "uri": "https://stevenmcsorley.github.io/nicocoin/nicocoin-metadata.jsonn",
   "seller_fee_basis_points": 0,
   "creators": [
     {
